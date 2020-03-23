@@ -1,5 +1,6 @@
 # Use the external Pokedex API
-
+#### Looks great, like the background image and the onclick functionality. Would have liked to see a comment above your render method
+#### Score : 5/5
 Write a simple application for displaying pokemon from the API https://pokeapi.co/
 
 Start by just displaying the Pokemon names in a grid with a header on the page.
